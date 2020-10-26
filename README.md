@@ -59,7 +59,8 @@ npm run start
 ### Query Params
 
 ```text
-http://localhost:3333/api/v1/?url=-l0nZM-lm
+http://localhost:3333/api/v1/?url=http://tier.app/-l0nZM-lm
+http://localhost:3333/api/v1/?url=http%3A%2F%2Ftier.app%2F-l0nZM-lm
 ```
 
 ### Response
